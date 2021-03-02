@@ -21,7 +21,7 @@ class Menu:
         Displays menu.
         """
         print("""
-Notebook Menu
+Menu
 1. Show all items
 2. Make order
 3. Show all orders
